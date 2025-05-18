@@ -17,34 +17,34 @@ cost_header: Coût
 category_header: Categorie
 karma_type_header: Type de Karma
 add_cost_header: Ajouter
-remove_cost_header: retirer
+remove_cost_header: Retirer
 name_header: Nom
 
 # Error messages
 no_commands: 'La commande cherchée n existe pas .'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
+see_traits: 'Consulter les prix des caractéristiques des colons'
 see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_items: 'Consulter les prix des objets'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'Rechercher un objet...'
+search_traits: 'Rechercher une caractéristique...'
+search_pawn_kinds: 'Rechercher un type de colon...'
+search_mods: 'Rechercher un mod...'
+search_commands: 'Rechercher une commande...'
+search_animals: 'Rechercher un animal...'
+search_events: 'Rechercher un événement...'
+search_weapons: 'Rechercher une arme...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
+usage: 'taper: %s'
+shortcut: 'Raccourci pour %s'
 stats: 'Stats'
-conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
-limit: 'Limit'
+conflicts_with: 'En conflit avec'
+from: 'Provient de %s'
+weight: 'Poids'
+limit: 'Limite'
 karma: 'Karma'
 bypasses_limit: 'This trait may exceed the trait limit'
