@@ -38,20 +38,19 @@ store: false
 
 # Welcome
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
+Bienvenue sur le stream d'[{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}).
+Le Stream utilise le mod
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) qui propose une expérienceinteractive..
+There's a lot to the mod that may seem complicated to even more experienced
 users, but this short guide will help you get the hang of things.
 
 ## What is Twitch Toolkit?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
-
+Twitch Toolkit est un mod créé par hodlhodl qui permet aux spectateurs d’interagir avec le jeu de plusieurs façons.
+La plus connue est sa [store]({{- "/" | relative_url -}}), qui permet d’acheter différents éléments choisis par le streamer.
+Selon l’achat, ces éléments apparaissent dans le jeu ou influencent le déroulement de la partie d'une manière ou d'une autre.
+Une autre façon pour les spectateurs d’interagir est via les sondages proposés par le mod.
+Les choix dans ces sondages dépendent fortement des options activées dans le mod.
 ## What Are Coins?
 
 Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
